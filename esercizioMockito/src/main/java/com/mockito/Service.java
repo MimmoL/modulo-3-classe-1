@@ -1,3 +1,4 @@
+package com.mockito;
 public class Service {
 
     private Database database;

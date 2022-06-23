@@ -1,3 +1,4 @@
+package com.mockito;
 public class Database {
 
     public boolean isAvailable() {
